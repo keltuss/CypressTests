@@ -23,5 +23,9 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+import '@4tw/cypress-drag-drop';
+import 'cypress-iframe';
+
+
 
 
