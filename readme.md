@@ -1,6 +1,5 @@
 Hey, that's my autotests on JavaScript + Cypress
 
-Cypress Tests
 This project contains a set of automated tests written using Cypress.
 Cypress is used to perform tests on interactions with web applications and ensure their functionality.
 
